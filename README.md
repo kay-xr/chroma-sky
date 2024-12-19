@@ -1,3 +1,4 @@
+![Chromasky Favicon](/static/favicon.png)
 # ChromaSky
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FuhKayla%2Fchroma-sky)
@@ -18,3 +19,5 @@ You can specify your handle in `username`
 Specify your specific tag in the `keywords` array, you can also leave this blank to include all photos.
 
 At the moment ChromaSky will show the most recent photos, up to 100, with pagination planned for the future.
+
+![Screenshot of ChromaSky](/static/screenshot.png)
