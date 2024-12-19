@@ -13,7 +13,7 @@
 		<a href="{link}" class="flex items-center justify-center text-muted">
 			Photos by {name} on bsky.app
 		</a>
-		<a href="https://github.com/uhKayla/chroma-sky" class="flex items-center justify-center text-muted">
+		<a href="https://github.com/kay-xr/chroma-sky" class="flex items-center justify-center text-muted">
 			<GithubIcon />
 		</a>
 	</div>

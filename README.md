@@ -1,7 +1,7 @@
 ![Chromasky Favicon](/static/favicon.png)
 # ChromaSky
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FuhKayla%2Fchroma-sky)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkay-xr%2Fchroma-sky)
 
 ChromaSky is a small app for collecting a Bluesky user's photos and displaying them on a single page. This is good for photo-focused accounts.
 
