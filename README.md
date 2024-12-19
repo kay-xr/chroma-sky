@@ -21,3 +21,5 @@ Specify your specific tag in the `keywords` array, you can also leave this blank
 At the moment ChromaSky will show the most recent photos, up to 100, with pagination planned for the future.
 
 ![Screenshot of ChromaSky](/static/screenshot.png)
+
+[Background by @wodniack on Codepen](https://codepen.io/wodniack/pen/OJKqRXp)

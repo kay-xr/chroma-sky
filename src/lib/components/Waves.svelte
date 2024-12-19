@@ -240,8 +240,8 @@
         left: 0;
         width: 100vw;
         height: 100vh;
-        z-index: -1; /* Ensure it's in the background */
-        pointer-events: none; /* Allow mouse events to pass through */
-        background: #000000; /* Fallback color */
+        z-index: -1;
+        pointer-events: none;
+        background: #000000;
     }
 </style>

@@ -132,25 +132,24 @@
     }
 
     .image-container {
-        overflow: hidden; /* Ensures images don't overflow during scale */
+        overflow: hidden;
         width: 100%;
         min-width: 100%;
     }
 
     .image {
-        transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth scaling */
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
         border-radius: var(--radius);
         width: 100%;
 				min-width: 100%;
     }
 
     .image:hover {
-        transform: scale(1.05); /* Slightly enlarge the image */
-        /*box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); !* Add a shadow for depth *!*/
+        transform: scale(1.05);
     }
 
 		.card-test {
-        transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth scaling */
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
 		}
 
 		.card-test:hover {
