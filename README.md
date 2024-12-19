@@ -18,10 +18,3 @@ You can specify your handle in `username`
 Specify your specific tag in the `keywords` array, you can also leave this blank to include all photos.
 
 At the moment ChromaSky will show the most recent photos, up to 100, with pagination planned for the future.
-
-### To Deploy
-
-To deploy this repo, start by forking it by clicking the button in the upper right.\
-Next, modify the config file, as described above, to customize the app for your account.\
-Finally, deploy the site via a service like Vercel. You can do this by connecting your clicking the button at the top of the page. \
-You can also link your handle to be the primary domain for your site.\
