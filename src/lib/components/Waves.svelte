@@ -172,7 +172,7 @@
 	function drawLines() {
 		ctx.clearRect(0, 0, canvas.width, canvas.height);
 		ctx.beginPath();
-		ctx.strokeStyle = '#0A0A0A';
+		ctx.strokeStyle = '#1f1f1f';
 
 		lines.forEach((points) => {
 			ctx.moveTo(points[0].x, points[0].y);
